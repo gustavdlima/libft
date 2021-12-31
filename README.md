@@ -112,7 +112,7 @@ make fclean
         </tr>
         <tr>
             <td><a href=ft_memchr.c>ft_memchr</a></td>
-            <td>Procura pela primeira ocorrência do caracter c nos primeiros 'n' byyes da string.</td>
+            <td>Procura pela primeira ocorrência do caracter c nos primeiros 'n' bytes da string.</td>
         </tr>
         <tr>
             <td><a href=ft_memcmp.c>ft_memcmp</a></td>
